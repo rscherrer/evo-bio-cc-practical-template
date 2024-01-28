@@ -1,6 +1,8 @@
-# CC2023-practical-template
+# evo-bio-cc-practical-template
 
 This repository shows how to make a practical in Rmarkdown. It is made for the lecturers involved in the [Crash Course in Evolutionary Biology](https://evobiocrashcourse.github.io/). The example shown here is a practical about evolutionary quantitative genetics.
+
+Check out the rest of my contributions to the Crash Course [here](https://github.com/rscherrer/evo-bio-cc).
 
 ### Prerequisites
 
